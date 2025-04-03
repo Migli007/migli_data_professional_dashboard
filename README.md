@@ -17,7 +17,7 @@ gain insights on areas where growth and improvement is needed.
 
 - Excel
 - Power BI
-- dataset: Available in the /plant_co_raw_data folder 
+- dataset: Available in the /data_professional_raw_data folder 
 
 
 
