@@ -1,16 +1,14 @@
-# Plant Co. Data Analysis 
+# Data Professional Analysis 
 
 
 
 ## Introduction
 
-The dashboard I developed provides a detailed and comprehensive analysis of the 
-sales,quantity, and gross product of each country of Plan Corporation. The goal of this 
-dashboard is to showcase the overall company’s performance standing across different regions. 
-The dashboard highlights metrics such as year-to-date (YTD) and previous years (PYTD)  of 
-sales, quantity of products, and gross product (GP) margins. By using this dashboard, analysts 
-and stakeholders would gain a better understanding on the performance of the business and 
-gain insights on areas where growth and improvement is needed. 
+The data of this dashboard is based from a public survey which was conducted among 
+professionals who are in the field of data science. The data presented explores various metrics 
+such as their job position, average salaries, work locations, work/life balance, and job 
+satisfaction. The objective of this dashboard is to identify key trends and challenges within the 
+data industry. 
 
 
 ## Tools Used
